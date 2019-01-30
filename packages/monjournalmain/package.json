@@ -6,6 +6,10 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/monjournalmain.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@guillaume.chervet/monjournal": "^0.3.0"
   },
@@ -23,5 +27,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "0bd15c07510a0380c4450672afc98c406bcc7a30"
+  "gitHead": "4d987fa325bee1f50f81568a529c9c50485614e6"
 }
