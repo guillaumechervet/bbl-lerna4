@@ -1,13 +1,13 @@
 {
   "name": "@guillaume.chervet/monjournalmain",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "> TODO: description",
   "author": "Guillaume Chervet <guillaume.chervet@axa.fr>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/monjournalmain.js",
   "dependencies": {
-    "@guillaume.chervet/monjournal": "^0.1.0"
+    "@guillaume.chervet/monjournal": "^0.2.0"
   },
   "directories": {
     "lib": "lib",
