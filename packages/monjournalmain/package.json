@@ -1,0 +1,26 @@
+{
+  "name": "@guillaume.chervet/monjournalmain",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Guillaume Chervet <guillaume.chervet@axa.fr>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/monjournalmain.js",
+  "dependencies": {
+    "@guillaume.chervet/monjournal": "1.0.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "youhou"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
